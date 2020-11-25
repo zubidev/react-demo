@@ -1,0 +1,37 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.wrapper{
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid tan;
+  margin-top: 20px;
+}
+.content{
+  padding: 20px;
+}
+.item{
+  border: 1px solid teal;
+  padding: 10px;
+  margin-bottom:10px;
+}
+.item .item-img{
+  float: left;
+}
+.item .item-img img{
+  width: 100px;
+}
+.item .item-content{
+  float: left;
+  margin-left: 10px;
+}
+.item .item-content h2{
+
+}
+.item .item-content p{
+
+}
+.clearfix{
+  clear: both;
+}
